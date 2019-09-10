@@ -1,4 +1,4 @@
-# coupons-scala
+# Coupons-Scala
 Coupons web app made in Scala using Play2 Framework.
 
 A platform to present coupons to visitors.
